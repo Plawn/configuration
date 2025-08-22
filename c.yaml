@@ -1,3 +1,6 @@
+auth:
+  - token
+
 import:
   - a
   - b
