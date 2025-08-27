@@ -6,8 +6,8 @@ import:
   - b
 
 value:
-  l: '#ref:a.value'
+  l: ${a.value}
   b: dez
 
 
-zed: '#ref:b.pm'
+zed: ${ref:b.pm}
